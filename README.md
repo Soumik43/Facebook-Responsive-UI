@@ -1,6 +1,6 @@
-# flutter_facebook_responsive_ui
+# Facebook UI clone using Flutter
 
-A new Flutter project.
+Built a Facebook UI clone using Flutter and Dart which is responsive. 
 
 ## Getting Started
 
